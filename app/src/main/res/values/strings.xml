@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pendaftaran</string>
+    <string name="title_activity_buat_data">BuatDataActivity</string>
+</resources>
